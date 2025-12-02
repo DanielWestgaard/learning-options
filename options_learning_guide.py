@@ -466,7 +466,7 @@ def run_all_lessons():
     """
     Run through all lessons in sequence.
     """
-    symbol = 'SPY'  # S&P 500 ETF - most liquid options market
+    symbol = 'AAPL' # 'SPY'  # S&P 500 ETF - most liquid options market
     
     print("\n" + "="*80)
     print(" "*20 + "OPTIONS TRADING LEARNING PROGRAM")
